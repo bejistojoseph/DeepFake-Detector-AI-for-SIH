@@ -58,7 +58,4 @@ python detect_deepfake.py --input <path_to_video> --output <path_to_report>
 
 Contributions are welcome! Please follow the guidelines in the `CONTRIBUTING.md` file.
 
-### License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
