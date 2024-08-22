@@ -1,5 +1,3 @@
-# README
-
 ## Deep Fake Detection: Face-Swap Authentication
 
 ### Overview
@@ -64,10 +62,3 @@ Contributions are welcome! Please follow the guidelines in the `CONTRIBUTING.md`
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-### Acknowledgments
-
-We acknowledge the contributions of the AI/ML community and the ongoing research in the field of deep fake detection, which has greatly influenced the development of this project.
-
----
-
-Feel free to raise issues or contribute to the project by submitting pull requests. We hope this solution helps in mitigating the risks posed by deep fakes and contributes to the broader efforts to protect individuals and society from malicious digital content.
