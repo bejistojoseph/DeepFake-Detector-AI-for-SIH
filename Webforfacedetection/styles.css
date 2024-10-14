@@ -1,0 +1,88 @@
+/* Style for body and general elements */
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #ff6f61, #ff9a76, #ffde59);
+}
+
+.login-container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    text-align: center;
+    width: 350px;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #ff6f61;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="tel"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="tel"]:focus {
+    border-color: #ff6f61;
+    outline: none;
+}
+
+.btn {
+    background-color: #ff6f61;
+    color: white;
+    padding: 12px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #ff4b47;
+}
+
+.signup-btn {
+    margin-top: 20px;
+    background-color: transparent;
+    color: #ff6f61;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.signup-btn:hover {
+    color: #ff4b47;
+}
+
+p {
+    margin: 10px 0;
+    font-size: 14px;
+    color: #666;
+}
