@@ -1,5 +1,5 @@
 // Function to handle "Register your Face" action
-function openCamera() {
+function registerFace() {
     const video = document.getElementById('cameraStream');
     
     if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
